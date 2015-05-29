@@ -1,4 +1,9 @@
 # Site settings
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
 title: The travel blog
 email: shinojin92@koreatech.ac.kr
 description: > # this means to ignore newlines until "baseurl:"
